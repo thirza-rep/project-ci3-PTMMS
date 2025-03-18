@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>PT. MITRA MURATARA SEJAHTERA</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="assets/img/LOG.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Bintang Maharani
+  * Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
+  * Updated: Aug 07 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="service-details-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center">
+
+      <a href="index.html" class="logo d-flex align-items-center me-auto">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <img src="assets/img/1a.png" alt="">
+        <h1 class="sitename">WELCOME</h1>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+      <a class="cta-btn" href="index.html#about">HALAMAN UTAMA</a>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Page Title -->
+    <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/uy.jpg);">
+      <div class="container position-relative">
+        <h1>PT. MITRA MURATARA SEJAHTERA</h1>
+        <p></p>
+        <nav class="breadcrumbs">
+          <ol>
+            <li><a href="index.html">Home</a></li>
+            <li class="current">Info Terkini</li>
+          </ol>
+        </nav>
+      </div>
+    </div><!-- End Page Title -->
+
+    <!-- Service Details Section -->
+    <section id="service-details" class="service-details section">
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+            <h3>Visi</h3>
+                <p>
+               Menjadi Perusahaan Agrobisnis Terkemuka Berkat Kepeloporan Dan Sumber Daya Manusia Yang Menonjol Yang Akan Menjadi Mitra Pilian Dalam Industri Kelapa Sawit Sehingga Dapat Tumbuh Bersama Masyarakat.
+                </p>
+                <ul>
+                    <h3>Misi</h3>
+                  <li><i class="bi bi-check2-all"></i> <span> Menciptakan Pertumbuhan Berkelanjutan Dalam Industri Kelapa Sawit.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Mengembangkan Potensi Daerah Dalam Semangat Kemitraan.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Mengembangkan Sumber Daya Manusia Sehingga Memiliki Kemampuan, Kompetensi Dan Emosional Yang Handal.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Memberi Nilai Tambah Bagi Semua Pemangku Kepentingan.</span></li>
+
+            <h4></p>
+          </div>
+
+          <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
+            <img src="assets/img/neww.jpg" alt="" class="img-fluid services-img">
+            <h3>PT. MITRA MURATARA SEJAHTERA</h3>
+            <p>
+              
+            </p>
+            <ul>
+              <li><i class="bi bi-check-circle"></i> <span>M : Man</span></li>
+              <li><i class="bi bi-check-circle"></i> <span>I  : Integritas</span></li>
+              <li><i class="bi bi-check-circle"></i> <span>T : Trust</span></li>
+              <li><i class="bi bi-check-circle"></i> <span>R : Responsiveness</span></li>
+              <li><i class="bi bi-check-circle"></i> <span>A : Ambitions</span></li>
+            </ul>
+            <!---isi kata kata-->
+            <p></p>
+            <p></p>
+            <!---isi kata kata-->
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Service Details Section -->
+
+  </main>
+
+  <footer id="footer" class="footer dark-background">
+
+    <div class="container footer-top">
+      <div class="row gy-4">
+        <div class="col-lg-4 col-md-6 footer-about">
+          <a href="index.html" class="logo d-flex align-items-center">
+            <span class="sitename">PT. MITRA MURATARA SEJAHTERA</span>
+          </a>
+          <div class="footer-contact pt-3">
+            <p><strong>Alamat:</strong> <span>Terusan, Karang Jaya, Musi Rawas Utara</span></p>
+            <p><strong>Email:</strong> <span>mitramuratarasejahtera@gmail.com</span></p>
+          </div>
+          <div class="social-links d-flex mt-4">
+            <a href=""><i class="bi bi-twitter-x"></i></a>
+            <a href=""><i class="bi bi-facebook"></i></a>
+            <a href=""><i class="bi bi-instagram"></i></a>
+            <a href=""><i class="bi bi-linkedin"></i></a>
+          </div>
+        </div>
+
+       <div class="col-lg-2 col-md-3 footer-links">
+          <h4>Kembali</h4>
+          <ul>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Halaman Depan</a></li>
+            
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-md-3 footer-links">
+          
+          </ul>
+        </div>
+
+        <div class="col-lg-4 col-md-12 footer-newsletter">
+          <h4></h4>
+          <p></p>
+          
+          <div class="row gy-8">
+             <section id="testimonials" class="testimonials section dark-background">
+
+      <img src="assets/img/1a.png" class="testimonials-bg" alt="">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="500">
+
+        </div>
+
+      </div>
+    </div>
+
+     <div class="container copyright text-center mt-4">
+      <p>© <span></span> <strong class="px-1 sitename">PT. MITRA MURATARA SEJAHTERA 2025</strong> <span></span></p>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+         <a href="https://bootstrapmade.com/"></a> <a href=“https://themewagon.com>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
